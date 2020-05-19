@@ -1,6 +1,6 @@
 # unit_converter
 
-A new Flutter project.
+This is an application to convert basic unit like temperature, mass, lenght, time etc
 
 ## Getting Started
 
