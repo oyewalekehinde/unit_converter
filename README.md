@@ -1,6 +1,11 @@
 # unit_converter
 
-This is an application using Flutter to convert basic unit like temperature, mass, lenght, time etc
+A Flutter Unit_converter
+
+This is an application to convert basic unit like temperature, mass, lenght, time etc
+
+
+This application can be use offline, 
 
 ScreenShot
 <img src = "assets/Screenshot_1.png">
